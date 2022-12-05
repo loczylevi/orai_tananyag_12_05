@@ -1,0 +1,17 @@
+body{background-color: grey;
+}
+
+h1{color: white;
+}
+p{font-size: 40px;
+color: white;
+}
+li{color: white;
+
+}
+button{background-color: red;
+
+}
+button:hover{background-color: green;
+
+}
