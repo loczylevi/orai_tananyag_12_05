@@ -1,0 +1,1 @@
+# orai_tananyag_12_05
